@@ -1,0 +1,13 @@
+CreditCardNumber = 5555555555555555
+CreditCardOwnerName = Ami Asraf
+MerchantName = BOFA
+ExpDate = 2/10/2022 12:00:00 AM
+AddressLine1 = 1276 Union Road
+AddressLine2 = Unknown Plaza
+City = Brooklyn
+State = NY
+ZipCode = 10001
+Country = US
+CreditCardLimit = 5000.0000
+CreditCardBalance = 250.0000
+ActivationStatus = True
